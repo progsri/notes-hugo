@@ -7,11 +7,7 @@ description: Intro blurb
 
 gggggjgjjg
 
-
-
 #### abcd
-
-
 
 ```
 @Entity
@@ -39,4 +35,4 @@ class Employee {
   }
 ```
 
-![]()
+![](img/cb88-java-logo-001.jpg)
